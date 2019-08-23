@@ -15,7 +15,7 @@ This Project detect
 
 ## Data
 Data for age and gender is taken from [here](https://talhassner.github.io/home/projects/Adience/Adience-data.html)
-This contain data of .............
+This contain data of 26,580 faces of 2284 subjects
 It will contain files starting with 'fold_', These files contain information about the images like gender, age etc.
 
 Data for expression is taken from kaggle
