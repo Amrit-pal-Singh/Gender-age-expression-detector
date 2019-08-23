@@ -49,11 +49,11 @@ Training is done on google colab.
 
 
 ## Testing
-To test the code, add the trained models in `models` folder and run the `testing_gender_age_expression.py` with following args
---image_input -> for testing a image
---camera -> for testing video
---video_output -> give the name and it store the file of that name
---image_output -> give the name and it store the image of that name
+To test the code, add the trained models in `models` folder and run the `testing_gender_age_expression.py` with following args</br>
+--image_input -> for testing a image</br>
+--camera -> for testing video</br>
+--video_output -> give the name and it store the file of that name</br>
+--image_output -> give the name and it store the image of that name</br>
 
 
 example - 
